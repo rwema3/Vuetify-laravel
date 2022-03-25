@@ -190,5 +190,4 @@ return [
     |
     */
 
-    'aliases' => Facade::defaultAliases()->merge([
-        // .
+    'aliases
