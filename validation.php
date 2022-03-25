@@ -117,4 +117,3 @@ return [
     'required_without_all' => 'The :attribute field is required when none of :values are present.',
     'same' => 'The :attribute and :other must match.',
     'size' => [
-        'array' => 'The :attribute must contain :size items.',
