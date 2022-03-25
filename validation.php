@@ -50,4 +50,4 @@ return [
     'file' => 'The :attribute must be a file.',
     'filled' => 'The :attribute field must have a value.',
     'gt' => [
-        'array' => 'The :attribute must have
+        'array' => 'The :attribute must hav
