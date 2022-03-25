@@ -120,4 +120,3 @@ return [
     | will not be safe. Please do this before deploying an application!
     |
     */
-
