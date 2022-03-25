@@ -53,4 +53,3 @@ return [
     | your application so that it is used when running Artisan tasks.
     |
     */
-
