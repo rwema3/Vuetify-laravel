@@ -1,4 +1,4 @@
-<p align="center"></p>
+ <p align="center"></p>
 
 <p align="center">
    <a href="https://themeselection.com/products/materio-free-vuetify-vuejs-laravel-admin-template/" target="_blank">
@@ -12,20 +12,6 @@
    </a>
 </h1>
 
-<p align="center">Production ready carefully crafted most comprehensive admin template</p>
-
-<p align="center">
-   <a href="https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/themeselection/materio-vuetify-vuejs-laravel-admin-template-free" alt="license">
-   </a>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/materio-vuetify-vuejs-laravel-admin-template-free/Deploy">
-   <a href="https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free/releases">
-    <img src="https://img.shields.io/github/release/themeselection/materio-vuetify-vuejs-laravel-admin-template-free.svg" alt="GitHub release">
-  </a>
-   <a href="https://twitter.com/Theme_Selection" target="_blank">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
-   </a>
-</p>
 
 <kbd>[![Materio - Vuetify VueJS Free Admin Template Demo Screenshot](https://user-images.githubusercontent.com/47495003/156503741-e01cf577-5083-4503-91c5-21a1132262f3.png)](https://themeselection.com/products/materio-free-vuetify-vuejs-laravel-admin-template/)</kbd>
 
