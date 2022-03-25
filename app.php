@@ -166,4 +166,3 @@ return [
 
         /*
          * Package Service Providers...
-         */
