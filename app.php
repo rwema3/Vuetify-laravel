@@ -88,5 +88,4 @@ return [
     |--------------------------------------------------------------------------
     | Application Fallback Locale
     |--------------------------------------------------------------------------
-    |
-    | The fallback locale determines the locale to use when the current     | the language folders that are provided through your application.
+    |    | the language folders that are provided through your application.
