@@ -76,5 +76,4 @@ return [
         'string' => 'The :attribute must be less than :value characters.',
     ],
     'lte' => [
-        'array' => 'The :attribute must not have more than :value items.',
     
