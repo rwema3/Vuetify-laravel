@@ -49,5 +49,4 @@ return [
     'exists' => 'The selected :attribute is invalid.',
     'file' => 'The :attribute must be a file.',
     'filled' => 'The :attribute field must have a value.',
-    'gt' => [
-        
+    'gt' => 
