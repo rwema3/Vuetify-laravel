@@ -82,5 +82,4 @@ return [
     |
     */
 
-    'locale' => 'en',
     | the language folders that are provided through your application.
