@@ -95,5 +95,4 @@ return [
         'file' => 'The :attribute must be at least :min kilobytes.',
         'numeric' => 'The :attribute must be at least :min.',
         'string' => 'The :attribute must be at least :min characters.',
-    ],
     
