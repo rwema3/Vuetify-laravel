@@ -71,5 +71,4 @@ return [
     'json' => 'The :attribute must be a valid JSON string.',
     'lt' => [
         'array' => 'The :attribute must have less than :value items.',
-        'file' => 'The :attribute must be less than :value kilobytes.',
     
