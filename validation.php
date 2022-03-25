@@ -56,5 +56,4 @@ return [
         'string' => 'The :attribute must be greater than :value characters.',
     ],
     'gte' => [
-        'array' => 'The :attribute must have :value items or more.',
     
