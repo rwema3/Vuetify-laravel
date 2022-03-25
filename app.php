@@ -1,3 +1,3 @@
 <?php
 
-use Illuminate\Support\Facades\
+use Illuminate\Support\Facade
