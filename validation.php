@@ -158,5 +158,3 @@ return [
     |
     */
 
-    'attributes' => [],
-
