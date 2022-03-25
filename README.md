@@ -8,9 +8,6 @@
 
 <kbd>[![Materio - Vuetify VueJS Free Admin Template Demo Screenshot](https://user-images.githubusercontent.com/47495003/156503741-e01cf577-5083-4503-91c5-21a1132262f3.png)](https://themeselection.com/products/materio-free-vuetify-vuejs-laravel-admin-template/)</kbd>
 
+## Author: 🎁
 
-## Useful Links 🎁
-
-* [Freebies](https://themeselection.com/products/category/download-free-admin-templates/)
-* [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/)
-* [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+* [Bagirishya Rwema Dominique](https://github.com/rwema3)
