@@ -142,4 +142,3 @@ return [
     */
 
     'custom' => [
-        'attribute-name' => [
