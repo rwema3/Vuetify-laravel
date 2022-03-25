@@ -1,3 +1,3 @@
 <?php
 
-use Illuminate\
+use Illuminat
