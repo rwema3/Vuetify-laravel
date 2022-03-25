@@ -120,4 +120,3 @@ return [
         'array' => 'The :attribute must contain :size items.',
         'file' => 'The :attribute must be :size kilobytes.',
         'numeric' => 'The :attribute must be :size.',
-        'string' => 'The :attribute must be :size characters.',
