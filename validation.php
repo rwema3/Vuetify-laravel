@@ -75,5 +75,4 @@ return [
         'numeric' => 'The :attribute must be less than :value.',
         'string' => 'The :attribute must be less than :value characters.',
     ],
-    'lte' => [
     
