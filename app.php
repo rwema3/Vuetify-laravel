@@ -9,4 +9,4 @@ return [
     | Application Name
     |--------------------------------------------------------------------------
     |
-    | This value is the name of your applicatio
+    | This value is the name of your applicati
