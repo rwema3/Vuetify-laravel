@@ -9,4 +9,4 @@ return [
     | Application Name
     |--------------------------------------------------------------------------
     |
-    | This value is the nam
+    | This value is the name 
