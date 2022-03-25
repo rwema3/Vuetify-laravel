@@ -108,4 +108,3 @@ return [
     'prohibits' => 'The :attribute field prohibits :other from being present.',
     'regex' => 'The :attribute format is invalid.',
     'required' => 'The :attribute field is required.',
-    'required_array_keys' => 'The :attribute field must contain entries for: :values.',
