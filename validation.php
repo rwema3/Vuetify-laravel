@@ -102,5 +102,4 @@ return [
     'numeric' => 'The :attribute must be a number.',
     'password' => 'The password is incorrect.',
     'present' => 'The :attribute field must be present.',
-    'prohibited' => 'The :attribute field is prohibited.',
     
