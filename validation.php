@@ -60,5 +60,4 @@ return [
         'file' => 'The :attribute must be greater than or equal to :value kilobytes.',
         'numeric' => 'The :attribute must be greater than or equal to :value.',
         'string' => 'The :attribute must be greater than or equal to :value characters.',
-    ],
     
