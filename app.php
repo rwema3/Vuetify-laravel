@@ -27,4 +27,3 @@ return [
     | services the application utilizes. Set this in your ".env" file.
     |
     */
-
