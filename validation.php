@@ -57,5 +57,4 @@ return [
     ],
     'gte' => [
         'array' => 'The :attribute must have :value items or more.',
-        'file' => 'The :attribute must be greater than or equal to :value kilobytes.',
     
