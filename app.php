@@ -71,4 +71,3 @@ return [
 
     'timezone' => 'UTC',
 
-    /*
