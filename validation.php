@@ -63,5 +63,4 @@ return [
     ],
     'image' => 'The :attribute must be an image.',
     'in' => 'The selected :attribute is invalid.',
-    'in_array' => 'The :attribute field does not exist in :other.',
     
