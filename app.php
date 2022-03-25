@@ -108,5 +108,4 @@ return [
     |
     */
 
-    'faker_locale' => 'en_US',
     |
