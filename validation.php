@@ -89,5 +89,4 @@ return [
         'string' => 'The :attribute must not be greater than :max characters.',
     ],
     'mimes' => 'The :attribute must be a file of type: :values.',
-    'mimetypes' => 'The :attribute must be a file of type: :values.',
     
