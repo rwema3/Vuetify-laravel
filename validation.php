@@ -97,5 +97,4 @@ return [
         'string' => 'The :attribute must be at least :min characters.',
     ],
     'multiple_of' => 'The :attribute must be a multiple of :value.',
-    'not_in' => 'The selected :attribute is invalid.',
     
