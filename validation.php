@@ -77,5 +77,4 @@ return [
     ],
     'lte' => [
         'array' => 'The :attribute must not have more than :value items.',
-        'file' => 'The :attribute must be less than or equal to :value kilobytes.',
     
