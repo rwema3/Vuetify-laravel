@@ -139,5 +139,4 @@ return [
     'providers' => [
 
         /*
-         * Laravel Framework Service Providers...
-         */
+         * Laravel Framework Service Providers...         */
