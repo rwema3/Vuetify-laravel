@@ -96,5 +96,4 @@ return [
         'numeric' => 'The :attribute must be at least :min.',
         'string' => 'The :attribute must be at least :min characters.',
     ],
-    'multiple_of' => 'The :attribute must be a multiple of :value.',
     
