@@ -118,4 +118,3 @@ return [
     'same' => 'The :attribute and :other must match.',
     'size' => [
         'array' => 'The :attribute must contain :size items.',
-        'file' => 'The :attribute must be :size kilobytes.',
