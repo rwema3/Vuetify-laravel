@@ -170,4 +170,3 @@ return [
 
         /*
          * Application Service Providers...
-         */
