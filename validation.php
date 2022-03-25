@@ -55,5 +55,4 @@ return [
         'numeric' => 'The :attribute must be greater than :value.',
         'string' => 'The :attribute must be greater than :value characters.',
     ],
-    'gte' => [
     
