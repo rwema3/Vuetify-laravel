@@ -160,4 +160,3 @@ return [
 
     'attributes' => [],
 
-];
